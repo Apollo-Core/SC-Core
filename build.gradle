@@ -33,10 +33,10 @@ dependencies {
     implementation project (':EE-Model')
     implementation project (':EE-Enactables')
   }else {
-    implementation 'com.github.Apollo-Core:EE-Model:main-SNAPSHOT'
-    implementation 'com.github.Apollo-Core:EE-Core:master-SNAPSHOT'
-    implementation 'com.github.Apollo-Core:EE-Enactables:master-SNAPSHOT'
-    implementation 'com.github.Apollo-Core:EE-Guice:main-SNAPSHOT'
+    implementation 'com.github.Apollo-Core:EE-Model:prevertx'
+    implementation 'com.github.Apollo-Core:EE-Core:preVertX'
+    implementation 'com.github.Apollo-Core:EE-enactables:preVertX'
+    implementation 'com.github.Apollo-Core:EE-Guice:preVertX'
   }
 
   // dependency to Opt4J
