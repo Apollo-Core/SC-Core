@@ -35,7 +35,7 @@ dependencies {
   }else {
     implementation 'com.github.Apollo-Core:EE-Model:prevertx'
     implementation 'com.github.Apollo-Core:EE-Core:preVertX'
-    implementation 'com.github.Apollo-Core:EE-enactables:preVertX'
+    implementation 'com.github.Apollo-Core:EE-Enactables:prevertx'
     implementation 'com.github.Apollo-Core:EE-Guice:preVertX'
   }
 
